@@ -4,7 +4,7 @@ This repository contains an implementation of a sliding window algorithm in C++.
 
 ## Sliding Window Algorithm
 
-The sliding window algorithm implemented here is designed to solve [https://leetcode.com/problems/minimum-window-substring/description/]. It efficiently processes an array [or any applicable data structure] using a sliding window of a fixed size, optimizing the time complexity for certain problems.
+The sliding window algorithm implemented here is designed to solve these types of problems [https://leetcode.com/problems/minimum-window-substring/description/]. It efficiently processes an array and many more using a sliding window of a fixed size or variable size, optimizing the time complexity for certain problems.
 
 ## Implementation Details
 
