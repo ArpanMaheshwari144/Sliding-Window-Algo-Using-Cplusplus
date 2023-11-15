@@ -4,7 +4,7 @@ This repository contains an implementation of a sliding window algorithm in C++.
 
 ## Sliding Window Algorithm
 
-The sliding window algorithm implemented here is designed to solve [provide a brief description of the problem it solves]. It efficiently processes an array [or any applicable data structure] using a sliding window of a fixed size, optimizing the time complexity for certain problems.
+The sliding window algorithm implemented here is designed to solve [https://leetcode.com/problems/minimum-window-substring/description/]. It efficiently processes an array [or any applicable data structure] using a sliding window of a fixed size, optimizing the time complexity for certain problems.
 
 ## Implementation Details
 
@@ -16,4 +16,4 @@ To use the sliding window algorithm in your C++ project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sliding-window-algorithm-cpp.git
+   git clone https://github.com/ArpanMaheshwari144/sliding-window-algorithm-cpp.git
